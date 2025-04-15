@@ -25,3 +25,6 @@ Task 2:
 
 Task 3:
 ![Image](https://github.com/user-attachments/assets/ef6b96ce-2399-484e-a8a0-5d15f24d6be7)
+
+Task 4:
+![Image](https://github.com/user-attachments/assets/b82d907d-f092-4049-8164-3fecb975818b)
