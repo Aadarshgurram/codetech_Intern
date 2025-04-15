@@ -1,4 +1,3 @@
-# INTERACTIVE-QUIZ-APPLICATION
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -22,3 +21,4 @@ Task 1:
 ![Image](https://github.com/user-attachments/assets/0bda21a8-6ace-4d66-92c9-d72b0d3fc3fe)
 
 Task 2:
+![Image](https://github.com/user-attachments/assets/bd0c8622-c9e3-4928-9741-0e7750e389b6)
